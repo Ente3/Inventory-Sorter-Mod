@@ -33,4 +33,7 @@ Once the mod is installed and you are in-game:
 ## 🛠️ Support
 For any issues or questions, please open a GitHub Issue.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ente3/Inventory-Sorter-Mod/blob/main/LICENSE) file for details.
+
 Happy sorting! 🎉
