@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "inventorysortermod",
+  "version": "${version}",
+  "name": "InventorySorterMod",
+  "description": "A mod to easely Sort you Inventory",
+  "authors": [
+    "Ente_3"
+  ],
+  "contact": {
+    "website": "https://github.com/Ente3",
+    "repo": "https://github.com/Ente3/Inventory-Sorter-Mod"
+  },
+  "license": "MIT",
+  "icon": "assets/InventorySorterMod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "de.ente.inventorysortermod.InventorySorterMod"
+    ]
+  },
+  "mixins": [
+    "InventorySorterMod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric": "*",
+    "minecraft": "1.21"
+  }
+}
